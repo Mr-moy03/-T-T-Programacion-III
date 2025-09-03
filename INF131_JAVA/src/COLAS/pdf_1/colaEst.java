@@ -5,7 +5,7 @@ public class colaEst extends vectorEst{
     protected int fi;
 
     public colaEst(){
-        this.fr = -1;
+        this.fr = -1;  //indice
         this.fi = -1;
     }
 }
